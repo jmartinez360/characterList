@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.android.lidlapp.ui.view.TicketView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/discountContainer"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    app:cutSize="36dp"
+    tools:ticketColor="@color/yellowTicket">
+
+    <androidx.constraintlayout.widget.Guideline
+        android:id="@+id/verticalGuide"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        app:layout_constraintGuide_percent=".5" />
+
+    <TextView
+        android:id="@+id/discountText"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:autoSizeMaxTextSize="24sp"
+        android:fontFamily="@font/roboto_bold"
+        android:gravity="center"
+        android:maxLines="2"
+        android:textColor="@color/title"
+        android:padding="24dp"
+        app:autoSizeMinTextSize="10sp"
+        app:autoSizeStepGranularity="1sp"
+        app:autoSizeTextType="uniform"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="@id/verticalGuide"
+        app:layout_constraintTop_toTopOf="parent"
+        tools:text="peces de colores" />
+
+    <TextView
+        android:id="@+id/discountLabel"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="24sp"
+        android:fontFamily="@font/roboto_bold"
+        android:gravity="center"
+        android:textColor="@color/title"
+        android:text="@string/discount"
+        android:visibility="gone"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintLeft_toRightOf="@id/verticalGuide"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintBottom_toBottomOf="parent"
+        tools:visibility="visible"
+        />
+
+
+</com.android.lidlapp.ui.view.TicketView>

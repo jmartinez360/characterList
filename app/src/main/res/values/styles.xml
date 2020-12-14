@@ -1,0 +1,46 @@
+<resources>
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.MaterialComponents.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <item name="android:windowTranslucentStatus">true</item>
+    </style>
+
+    <style name="TransparentActionBar" parent="AppTheme">
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="windowActionBarOverlay">true</item>
+        <item name="colorPrimary">@android:color/transparent</item>
+    </style>
+
+    <style name="TextAppearance.App.CollapsingToolbar.Expanded" parent="TextAppearance.MaterialComponents.Headline5">
+        <item name="android:textColor">@color/mainTitle</item>
+        <item name="fontFamily">@font/roboto_bold</item>
+        <item name="android:textSize">36sp</item>
+    </style>
+
+    <style name="TextAppearance.App.CollapsingToolbar.Collapsed" parent="TextAppearance.MaterialComponents.Headline6">
+        <item name="android:textColor">@color/mainTitle</item>
+    </style>
+
+    <style name="Subtitle_TextAppearance.App.CollapsingToolbar.Expanded" parent="TextAppearance.MaterialComponents.Headline5">
+        <item name="android:textColor">@color/noActivatedTickets</item>
+        <item name="android:textSize">16sp</item>
+
+
+    </style>
+
+    <style name="Subtitle_TextAppearance.App.CollapsingToolbar.Collapsed" parent="TextAppearance.MaterialComponents.Headline6">
+        <item name="android:textColor">@color/noActivatedTickets</item>
+        <item name="android:textSize">16sp</item>
+    </style>
+
+    <style name="ActivationButtonStyle" parent="AppTheme">
+        <item name="colorAccent">#ffffff</item>
+    </style>
+
+    <style name="progressBar" parent="AppTheme">
+        <item name="colorAccent">@color/activationButton</item>
+    </style>
+</resources>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="TicketView">
+        <attr name="ticketColor" format="color"/>
+        <attr name="cutSize" format="dimension"/>
+    </declare-styleable>
+
+    <declare-styleable name="ActivationButton">
+        <attr name="ticketActivated" format="boolean"/>
+    </declare-styleable>
+
+</resources>

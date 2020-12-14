@@ -1,0 +1,216 @@
+[
+    {
+        "id": "1",
+        "name": "Test 1",
+        "description": "Rompe la Grieta con ritmo, con estilo y flow. Destruye la base enemiga con tus rimas y versos callejeros",
+        "company": "True Damage",
+        "limit": 2,
+        "exchangeLimit": 1,
+        "productCode": 265,
+        "endDate": 1605718549000,
+        "unlockDate": 0,
+        "activated": false,
+        "image": "",
+        "discount": {
+            "type": 1,
+            "description": "20%"
+        },
+        "relatedProducts": [
+            {
+                "productName": "Yasuo True Damage",
+                "image": "https://64.media.tumblr.com/ba7562b32cf7e18eb6579572e330ec07/d1c69571b22352b5-47/s400x600/d3ae0cf6520b881dd6b4dcb8bac00809a33d622e.png"
+            },
+            {
+                "productName": "Qiyana True Damage",
+                "image": "https://pm1.narvii.com/7373/2fb2a0f34d92004fe91a50b1d96ce787fef1014dr1-1080-944v2_128.jpg"
+            },
+            {
+                "productName": "Akali True Damage",
+                "image": "https://ih1.redbubble.net/image.972632260.9180/flat,128x128,075,t-pad,128x128,f8f8f8.u1.jpg"
+            },
+            {
+                "productName": "Senna True Damage",
+                "image": "https://ih1.redbubble.net/image.958904891.0345/flat,128x128,075,t-pad,128x128,f8f8f8.jpg"
+            }
+        ]
+    },
+    {
+        "id": "2",
+        "name": "Test 2",
+        "description": "La Cabra y el Lobo están preparados para la caza. Adquiere esta nueva skin y escala a diamante sin piedad",
+        "company": "Spirit Blossom",
+        "limit": 6,
+        "exchangeLimit": 4,
+        "productCode": 2564,
+        "endDate": 1606841749000,
+        "unlockDate": 0,
+        "activated": true,
+        "image": "",
+        "discount": {
+            "type": 2,
+            "description": "Descuento 2da unidad"
+        },
+        "relatedProducts": [
+            {
+                "productName": "Ahri Spirit Blossom",
+                "image": "https://64.media.tumblr.com/6ff491484fbd25432cd83757ea179e65/90c5e11d362279f0-b6/s400x600/0d429186a5b4f6e8727ac6b2b0a014f995b9b542.png"
+            },
+            {
+                "productName": "Teemo Spirit Blossom",
+                "image": "https://64.media.tumblr.com/ef4094693997bb62146aa595f33e32e1/90c5e11d362279f0-bb/s400x600/6f98b4bf201f78463b7368ea232856faeeea3ae1.png"
+            },
+            {
+                "productName": "Yone Spirit Blossom",
+                "image": "https://cdn130.picsart.com/333327704069201.jpg?type=webp&to=crop&r=256"
+            },
+            {
+                "productName": "Vayne Spirit Blossom",
+                "image": "https://lolskin.weblog.vc/img/wallpaper/tiles/Vayne_14.jpg?10.15.2"
+            },
+            {
+                "productName": "Thresh Spirit Blossom",
+                "image": "https://64.media.tumblr.com/59e7da3ddadf0e511880b05c3fcfb5a4/0dfbf548c6e04605-4d/s400x600/4ac39328e62ac1a39b019ee19297a46adae5d29a.png"
+            },
+            {
+                "productName": "Cassiopeia Spirit Blossom",
+                "image": "https://steamuserimages-a.akamaihd.net/ugc/1463058539669881101/8E483353B2D7070573D333EB72D097EFAC6651F6/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true"
+            }
+        ]
+    },
+    {
+        "id": "3",
+        "name": "Test 3",
+        "description": "¿Te gusta el anime? ¿Te gusta My Hero Academy? Pues no se diga más! Esta es la skin perfecta para enseñarle a tus amigos que tu te dejas el dinerito en el LOL. La skin perfecta para pedirla como regalo de Navidad",
+        "company": "Battle Academy",
+        "limit": 1,
+        "exchangeLimit": 1,
+        "productCode": 45251,
+        "endDate": 1608828949000,
+        "unlockDate": 0,
+        "activated": false,
+        "image": "",
+        "discount": {
+            "type": 1,
+            "description": "24%"
+        }
+    },
+    {
+        "id": "4",
+        "name": "Sona PsyOps",
+        "description": "No diremos nada de esta skin, no queremos sufrir todo el poder que desprende. Un must!",
+        "company": "PsyOps",
+        "limit": 10,
+        "exchangeLimit": 5,
+        "productCode": 45251,
+        "endDate": 1606236949000,
+        "unlockDate": 0,
+        "activated": true,
+        "image": "https://static1-es.millenium.gg/articles/4/25/41/4/@/117868-5-article_m-2.jpg",
+        "discount": {
+            "type": 1,
+            "description": "22%"
+        }
+    },
+    {
+        "id": "5",
+        "name": "Jinx Odyssey",
+        "description": "Vuélvete Loc@ e imparable destrozando la Grieta con tus metralletas y lanza cohetes. Advertencia: No nos hacemos responsables si destrozas tu casa después de que te roben un Pentakill",
+        "company": "Odyssey",
+        "limit": 6,
+        "exchangeLimit": 6,
+        "productCode": 666,
+        "endDate": 1607273749000,
+        "unlockDate": 0,
+        "activated": false,
+        "image": "https://1.bp.blogspot.com/-g2kCbL3xWF8/X2xNUgdgRKI/AAAAAAAADAU/pDoS5e2RaUYaxEB87-fkpEgcaJR3IhrIQCNcBGAsYHQ/w914-h514-p-k-no-nu/lol-jinx-odyssey-uhdpaper.com-4K-5.2833-wp.thumbnail.jpg",
+        "discount": {
+            "type": 2,
+            "description": "30%"
+        }
+    },
+    {
+        "id": "6",
+        "name": "Kog'Maw Arcanist",
+        "description": "¿Tus padres o tu pareja no te dejan tener una mascota? Pues no pasa nada!! Compra esta skin y siente la diversión y ternura de llevar a esta criaturita de un lado al otro. Míralo, incluso va por la pelota! #cute #pet",
+        "company": "Arcanist",
+        "limit": 46,
+        "exchangeLimit": 2,
+        "productCode": 25616,
+        "endDate": 1609433749000,
+        "unlockDate": 0,
+        "activated": false,
+        "image": "https://static1-www.millenium.gg/articles/0/18/93/0/@/189992-96019-article_m-1.jpg",
+        "discount": {
+            "type": 2,
+            "description": "Unidad gratis"
+        }
+    },
+    {
+        "id": "7",
+        "name": "test 7",
+        "description": "¿Tus padres o tu pareja no te dejan tener una mascota? Pues no pasa nada!! Compra esta skin y siente la diversión y ternura de llevar a esta criaturita de un lado al otro. Míralo, incluso va por la pelota! #cute #pet",
+        "company": "Arcanist",
+        "limit": 46,
+        "exchangeLimit": 2,
+        "productCode": 25616,
+        "endDate": 1609433749000,
+        "unlockDate": 0,
+        "activated": false,
+        "image": "https://static1-www.millenium.gg/articles/0/18/93/0/@/189992-96019-article_m-1.jpg",
+        "discount": {
+            "type": 2,
+            "description": "Unidad gratis"
+        }
+    },
+    {
+        "id": "8",
+        "name": "test 8",
+        "description": "¿Tus padres o tu pareja no te dejan tener una mascota? Pues no pasa nada!! Compra esta skin y siente la diversión y ternura de llevar a esta criaturita de un lado al otro. Míralo, incluso va por la pelota! #cute #pet",
+        "company": "Arcanist",
+        "limit": 46,
+        "exchangeLimit": 2,
+        "productCode": 25616,
+        "endDate": 1609433749000,
+        "unlockDate": 0,
+        "activated": false,
+        "image": "https://static1-www.millenium.gg/articles/0/18/93/0/@/189992-96019-article_m-1.jpg",
+        "discount": {
+            "type": 2,
+            "description": "Unidad gratis"
+        }
+    },
+    {
+        "id": "9",
+        "name": "test 9",
+        "description": "¿Tus padres o tu pareja no te dejan tener una mascota? Pues no pasa nada!! Compra esta skin y siente la diversión y ternura de llevar a esta criaturita de un lado al otro. Míralo, incluso va por la pelota! #cute #pet",
+        "company": "Arcanist",
+        "limit": 46,
+        "exchangeLimit": 2,
+        "productCode": 25616,
+        "endDate": 1609433749000,
+        "unlockDate": 0,
+        "activated": false,
+        "image": "https://static1-www.millenium.gg/articles/0/18/93/0/@/189992-96019-article_m-1.jpg",
+        "discount": {
+            "type": 2,
+            "description": "Unidad gratis"
+        }
+    },
+    {
+        "id": "10",
+        "name": "test 10",
+        "description": "¿Tus padres o tu pareja no te dejan tener una mascota? Pues no pasa nada!! Compra esta skin y siente la diversión y ternura de llevar a esta criaturita de un lado al otro. Míralo, incluso va por la pelota! #cute #pet",
+        "company": "Arcanist",
+        "limit": 46,
+        "exchangeLimit": 2,
+        "productCode": 25616,
+        "endDate": 1609433749000,
+        "unlockDate": 0,
+        "activated": false,
+        "image": "https://static1-www.millenium.gg/articles/0/18/93/0/@/189992-96019-article_m-1.jpg",
+        "discount": {
+            "type": 2,
+            "description": "Unidad gratis"
+        }
+    }
+]

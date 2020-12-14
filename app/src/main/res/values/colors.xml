@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#ffffff</color>
+    <color name="colorPrimaryDark">#000000</color>
+    <color name="colorAccent">#03DAC5</color>
+    <color name="mainBackground">#ffffff</color>
+    <color name="mainTitle">#000000</color>
+    <color name="title">#000000</color>
+    <color name="noActivatedTickets">#e60a14</color>
+    <color name="yellowTicket">#f2be04</color>
+    <color name="redTicket">#dc322b</color>
+    <color name="activationButton">#1c57a8</color>
+    <color name="white">#ffffff</color>
+    <color name="black">#000000</color>
+</resources>

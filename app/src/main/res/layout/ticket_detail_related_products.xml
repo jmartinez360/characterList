@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/relatedProductsContainer"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@color/white"
+    android:paddingTop="@dimen/ticket_detail_def_padding"
+    android:paddingBottom="@dimen/ticket_detail_def_padding"
+    android:visibility="invisible"
+    tools:visibility="visible">
+
+    <TextView
+        android:id="@+id/relatedProductsLabel"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="@dimen/ticket_detail_def_padding"
+        android:layout_marginEnd="@dimen/ticket_detail_def_padding"
+        android:fontFamily="@font/roboto_bold"
+        android:maxLines="1"
+        android:text="@string/related_products"
+        android:textColor="@color/black"
+        android:textSize="16sp"
+        app:layout_constraintBottom_toTopOf="@id/relatedProductsRecycler"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_chainStyle="packed" />
+
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/relatedProductsRecycler"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/ticket_detail_def_padding"
+        app:layout_constraintTop_toBottomOf="@id/relatedProductsLabel" />
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>

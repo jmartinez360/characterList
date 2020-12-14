@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">LidlApp</string>
+    <string name="tickets_title">Tus cupones</string>
+    <string name="activate_ticket">activar</string>
+    <string name="activated">Activado</string>
+    <string name="deactivated">Desactivado</string>
+    <string name="deactivate_ticket">activado</string>
+    <string name="discount">Descuento</string>
+    <string name="discount_value">%d%%</string>
+    <string name="related_products">Productos relacionados</string>
+    <string name="productCode">Código del producto</string>
+    <string name="toolbar_discount">%s Descuento</string>
+    <plurals name="activated_tickets">
+        <item quantity="one">%d cupón activo</item>
+        <item quantity="other">%d cupones activados</item>
+    </plurals>
+    <plurals name="limit">
+        <item quantity="one">Limitado a %d unidad</item>
+        <item quantity="other">Limitado a %d unidades</item>
+    </plurals>
+    <plurals name="exchange">
+        <item quantity="one">Cupón canjeable %d vez</item>
+        <item quantity="other">Cupón canjeable %d veces</item>
+    </plurals>
+    <plurals name="remaining_end_time">
+        <item quantity="one">%d día para finalizar</item>
+        <item quantity="other">%d días para finalizar</item>
+    </plurals>
+</resources>
